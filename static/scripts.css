@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+
+body{
+    background-color: rgb(68, 197, 160);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url("/static/imagens/Python_Imagem.png");
+    background-position: 50% 30%;
+    background-attachment: fixed;
+    background-origin: padding-box;
+    color: gray;
+    max-width: 100%;
+    height: auto;
+}
+
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 1px 1px 3px black;
+    font-size: 250%;
+    font-style: italic;
+}
+
+tr{
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 3px black;
+    color: rgb(80, 80, 80);
+}
